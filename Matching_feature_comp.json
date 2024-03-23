@@ -1,7 +1,7 @@
-{"Vision_system":["Computer vision", "Camera"], 
+{"Vision_system":["Computer vision", "Camera", "Perception"], 
   "Audio_system":["Speech recognition"], 
   "Navigation_system":["Communication system", "Cellular LTE", "Lidar", "Radar"],
-  "Motion_system":["Motor", "Actuator"], 
+  "Motion_system":["Motor", "Actuator", "Driver"], 
   "Single_Board_computer":["computer system"],
   "Sensor_array_to_image_system":["Sensors", "Sensor"]
 }
